@@ -14,3 +14,7 @@
 - `support.html` 作为技术支持网址
 - `privacy-policy.html` 作为隐私政策网址
 
+## GitHub Pages
+
+- 支持页面：<https://sxl000418.github.io/kline-bookkeeping-site/support.html>
+- 隐私政策：<https://sxl000418.github.io/kline-bookkeeping-site/privacy-policy.html>
